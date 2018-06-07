@@ -34,7 +34,7 @@ if(request.getParameterValues("tabla") !=null){
         <link rel="stylesheet" type="text/css" href="../../css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="../../css/bootstrap-responsive.css">
         <link rel="stylesheet" type="text/css" href="../../css/resultTables.css">
-        <script src="../../js/code.jquery.com_jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+        <script src="../../js/code.jquery.com_jquery-3.1.1.min.js" ></script>
         <script src="../../js/bootstrap.js" ></script>      
         <script src="../../js/index.js" ></script>      
     </head>
